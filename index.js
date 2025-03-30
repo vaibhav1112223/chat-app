@@ -20,7 +20,7 @@ async function main() {
 let chat1=new Chat({
     from:"neha",
     to:"priya",
-    message:"fuck you bitch",
+    message:"come fast",
     created_at:new Date()
 })
 chat1.save().then((res)=>{
