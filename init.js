@@ -12,25 +12,25 @@ async function main() {
 let chats=[{
     from:"sneha",
     to:"riya",
-    message:"fuck ok you bitch",
+    message:"hey",
     created_at:new Date()
 },
 {
     from:"eha",
     to:"prya",
-    message:"you fuck you bitch",
+    message:"bye",
     created_at:new Date()
 },
 {
     from:"nea",
     to:"priy",
-    message:"also fuck you bitch",
+    message:"meet me",
     created_at:new Date()
 },
 {
     from:"ksneha",
     to:"apriya",
-    message:"np fuck you bitch",
+    message:"wait",
     created_at:new Date()
 },
 
